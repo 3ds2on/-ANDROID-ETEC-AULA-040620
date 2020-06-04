@@ -1,17 +1,15 @@
 <resources>
-    <string name="app_name">AppMenu28052020</string>
+    <string name="app_name">App Peso Ideal com Menu</string>
+    <string name="menu_masc">Masculino</string>
+    <string name="menu_fem">Feminino</string>
 
-    <!-- TEXTO DO MENU -->
-    <string name="menu1">Tela 2</string>
-    <string name="menu2">Tela 3</string>
-    <string name="menu3">Tela 4</string>
 
     <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">Tela Inicial</string>
-    <string name="second_fragment_label">Segunda Tela</string>
-    <string name="next">Proximo</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Contato</string>
     <string name="previous">Voltar</string>
 
-    <string name="hello_first_fragment">Tela Inicial</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="hello_first_fragment">Esta é a tela inicial. Clique no menu acima</string>
+    <string name="hello_second_fragment">3ds2on@gmail.com</string>
 </resources>

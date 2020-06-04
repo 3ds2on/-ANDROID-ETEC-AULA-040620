@@ -48,17 +48,13 @@ public class MainActivity extends AppCompatActivity {
         int id = item.getItemId();
 
 
-
+        //TRECHO PARA CHAMAR AS ACTIVITIS
         //noinspection SimplifiableIfStatement
         if (id == R.id.menu1) {
             Intent tela2 = new Intent(MainActivity.this,Tela2.class);
             startActivity(tela2);
             return true;
         }else if (id == R.id.menu2) {
-            Intent tela3 = new Intent(MainActivity.this,Tela3.class);
-            startActivity(tela3);
-            return true;
-        }else if (id == R.id.menu3) {
             Intent tela3 = new Intent(MainActivity.this,Tela3.class);
             startActivity(tela3);
             return true;
